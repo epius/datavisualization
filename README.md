@@ -16,3 +16,5 @@ More plot! Bubble plot
 
 Line plot
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=1542811993&amp;format=interactive"></iframe>
+Stacked column chat
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=259352653&amp;format=interactive"></iframe>
