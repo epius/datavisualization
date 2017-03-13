@@ -18,3 +18,6 @@ Line plot
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=1542811993&amp;format=interactive"></iframe>
 Stacked column chat
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=259352653&amp;format=interactive"></iframe>
+
+Interactive scatter plot from Tablaeu
+<iframe src=”https://public.tableau.com/views/CTSchoolDistrictsbyIncomeandGradeLevels2009-13/Sheet1?:showVizHome=no&:embed=true” width="90%" height="500"></iframe>
