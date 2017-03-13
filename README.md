@@ -14,3 +14,5 @@ Another chat from the course.
 More plot! Bubble plot
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=166687983&amp;format=interactive"></iframe>
 
+Line plot
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=1542811993&amp;format=interactive"></iframe>
