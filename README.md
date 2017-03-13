@@ -10,3 +10,7 @@ Cheers!
 
 Another chat from the course.
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1yVC7TxMNF9nHgONXdkhSXVPRbAgL1tBfIpa3hUaTsFM/pubchart?oid=538207924&amp;format=interactive"></iframe>
+
+More plot! Bubble plot
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1djli_7M7jobAjGGcnpIcaqdYDiIoPvFUrdnhMvp5DBk/pubchart?oid=166687983&amp;format=interactive"></iframe>
+
